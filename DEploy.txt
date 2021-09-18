@@ -1,0 +1,12 @@
+google {
+	moopointmilkmanager@gmail
+	milkmanager12
+}
+Github{
+user:moopointregister
+pass:milkpoint12
+}
+pythonanywhere {
+moopointmilkregister
+milkregister12
+}
